@@ -21,7 +21,7 @@ a {
   }
   body {
     color: white;
-    background: black;
+    background-image: url(/04-zkapp-browser-ui/_next/static/media/bg.png);
   }
 }
 
@@ -258,8 +258,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/loading.8aa19bbf.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 300px;
-	height: 300px;
+	width: 70px;
+	height: 70px;
 	position: absolute;
 	left: 305px;
 	top: 50px;
@@ -270,8 +270,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.8aa19bbf.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 280px;
-	height: 280px;
+	width: 80px;
+	height: 80px;
 	position: absolute;
 	left: 315px;
 	top: 150px;
@@ -282,8 +282,8 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.8aa19bbf.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 250px;
-	height: 250px;
+	width: 75px;
+	height: 75px;
 	position: absolute;
 	left: 330px;
 	top: 110px;
