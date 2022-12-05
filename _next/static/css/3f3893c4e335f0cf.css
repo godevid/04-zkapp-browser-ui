@@ -22,6 +22,8 @@ a {
   body {
     color: white;
     background-image: url(/04-zkapp-browser-ui/_next/static/media/black.2422ba24.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
   }
 }
 
@@ -257,36 +259,39 @@ a {
 	display: block;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/loading.8aa19bbf.gif);
 	background-repeat: no-repeat;
-	background-size: cover;
-	width: 70px;
-	height: 70px;
-	position: absolute;
-	left: 305px;
-	top: 50px;
+        background-size: cover;
+        width: 250px;
+        height: 120px;
+        position: absolute;
+        left: 330px;
+        top: 170px;
+
 }
 
 .Home_getLoading__Ml8Nf {
 	display: block;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.8aa19bbf.gif);
 	background-repeat: no-repeat;
-	background-size: cover;
-	width: 80px;
-	height: 80px;
-	position: absolute;
-	left: 315px;
-	top: 150px;
+        background-size: cover;
+        width: 250px;
+        height: 120px;
+        position: absolute;
+        left: 330px;
+        top: 170px;
+
 }
 
 .Home_sendLoading__Zkd01 {
 	display: block;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.8aa19bbf.gif);
 	background-repeat: no-repeat;
-	background-size: cover;
-	width: 75px;
-	height: 75px;
-	position: absolute;
-	left: 330px;
-	top: 110px;
+        background-size: cover;
+        width: 250px;
+        height: 120px;
+        position: absolute;
+        left: 330px;
+        top: 170px;
+
 }
 
 .Home_sendCheck__xMz4p {
